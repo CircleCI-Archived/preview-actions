@@ -7,3 +7,7 @@ This template offers an easy way to get started writing a javascript action with
 See the walkthrough located [here](https://github.com/actions/toolkit/blob/master/docs/javascript-action.md).
 
 In addition to walking your through how to create an action, it also provides strategies for versioning, releasing and referencing your actions.
+
+## LICENSE:
+
+This repository is under [MIT](https://github.com/frbio/preview-actions/blob/master/LICENSE) licence.
